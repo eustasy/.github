@@ -2,7 +2,7 @@
 name: Bug Fix
 about: Propose a bug fix
 title: 'ClassName: description of fix'
-labels: ''
+labels: 'Type: Bug'
 assignees: ''
 
 ---
