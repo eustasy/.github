@@ -1,0 +1,29 @@
+name: 🐝 Bug
+description: Report something that isn't working as expected.
+type: 🐝 Bug
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: What happened?
+      description: What went wrong, and what did you expect instead?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Go to '...'
+        2. Click '...'
+        3. See the error
+    validations:
+      required: false
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      description: Device, OS, browser, and versions — whatever is relevant.
+      placeholder: e.g. iPhone 15, iOS 18, Safari
+    validations:
+      required: false

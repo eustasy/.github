@@ -1,0 +1,11 @@
+name: 🌞 Maintenance
+description: Request a specific piece of work, often recurring or updating.
+type: 🌞 Maintenance
+body:
+  - type: textarea
+    id: task
+    attributes:
+      label: What needs doing?
+      description: Describe the work and why it's needed.
+    validations:
+      required: true

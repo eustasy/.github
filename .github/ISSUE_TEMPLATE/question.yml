@@ -1,0 +1,10 @@
+name: ❔ Question
+description: Ask for help or clarification.
+type: ❔ Question
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: What would you like to know?
+    validations:
+      required: true
