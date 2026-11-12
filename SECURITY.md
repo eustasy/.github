@@ -12,7 +12,7 @@ It will not include software-specific information such as supported versions._
 
 The team and community take all security bugs seriously. Thank you for improving the security of eustasy software. We appreciate your efforts and responsible disclosure and will make every effort to acknowledge your contributions.
 
-Report security bugs by emailing the lead maintainer at security@eustasy.org.
+Report security bugs privately through GitHub's **Report a vulnerability** form on the repository's Security tab, or by emailing the lead maintainer at security@eustasy.org.
 
 A maintainer will acknowledge your email within 96 hours, and will send a more detailed response within 5 working days indicating the next steps in handling your report. After the initial reply to your report, we will endeavor to keep you informed of the progress towards a fix and full announcement, and may ask for additional information or guidance.
 
